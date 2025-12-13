@@ -1,4 +1,4 @@
-## Particle Text Morphing – Three.js
+# Particle Text Morphing – Three.js
 
 An interactive Three.js particle animation where thousands of particles smoothly morph between a rotating 3D sphere and custom user‑entered text. The project combines WebGL, GSAP animations, and a modern UI to create a visually engaging experience directly in the browser.
 
